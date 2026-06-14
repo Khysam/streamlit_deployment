@@ -5,7 +5,7 @@ from ml_app import run_ml_app
 
 html_temp = """
             <div>
-		    <h1 style="color:white;text-align:center;">Employee Promotion Prediction App </h1>
+		    <h1 style="color:white;text-align:center;">Employee Promotion Prediction App by Sammy</h1>
 		    <h2 style="color:white;text-align:center;">HR Team </h2>
 		    </div>
             """
